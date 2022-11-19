@@ -28,7 +28,7 @@ setup is in the run.bat
 -----
 
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/955100661488447509/1040908681144963132/image.png", width="500", height="500">
+<img src="https://cdn.discordapp.com/attachments/972965986766557215/1043405443663400990/image.png", width="500", height="500">
 </p>
 
 
